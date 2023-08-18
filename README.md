@@ -13,9 +13,9 @@ Welcome to the WAV Analysis and Processing Tool repository! This tool allows you
 
 ## Getting Started
 
-1. Clone this repository to your local machine using 'git clone 
-2. Make sure you have a C compiler installed.
-3. Compile 'main.c' along with 'impeghd_fft_ifft_rom.c' using appropiate command for example, 'gcc main.c impeghd_fft_ifft_rom.c'.
+1. Clone this repository to your local machine using `git clone https://github.com/ShahMehraj/wav-file-utils.git`.
+2. Make sure you have a `C` compiler installed.
+3. Compile `main.c` along with `impeghd_fft_ifft_rom.c` using appropiate command for example, `gcc main.c impeghd_fft_ifft_rom.c`.
 4. Run the compiled program.
 5. Follow the on-screen instructions to analyze WAV files and perform FFT.
 
