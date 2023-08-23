@@ -1,5 +1,5 @@
-#ifndef IA_CORE_CODER_TYPE_DEF_H
-#define IA_CORE_CODER_TYPE_DEF_H
+#ifndef TYPE_DEF_H
+#define TYPE_DEF_H
 
 /****************************************************************************/
 /*     types               type define    prefix		examples
