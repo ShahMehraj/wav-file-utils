@@ -1,5 +1,5 @@
-#ifndef IMPEGHD_INTRINSICS_FLT_H
-#define IMPEGHD_INTRINSICS_FLT_H
+#ifndef INTRINSICS_FLT_H
+#define INTRINSICS_FLT_H
 #define ITT_INTRINSICS
 #include <math.h>
 #include <stdlib.h>
