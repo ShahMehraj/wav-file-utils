@@ -1,4 +1,4 @@
-#include "impeghd_type_def.h"
+#include "type_def.h"
 
 /**
  * @defgroup FFTROM FFT ROM Tables
