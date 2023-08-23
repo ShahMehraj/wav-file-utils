@@ -1,5 +1,5 @@
-#ifndef IA_CORE_CODER_BASIC_OPS32_H
-#define IA_CORE_CODER_BASIC_OPS32_H
+#ifndef BASIC_OPS32_H
+#define BASIC_OPS32_H
 
 static PLATFORM_INLINE WORD32 ia_core_coder_mul32_sh_sat(WORD32 a, WORD32 b, WORD8 shift)
 {
