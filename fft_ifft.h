@@ -1,5 +1,5 @@
-#ifndef IMPEGHD_FFT_IFFT_H
-#define IMPEGHD_FFT_IFFT_H
+#ifndef FFT_IFFT_H
+#define FFT_IFFT_H
 
 #define PLATFORM_INLINE __inline
 
